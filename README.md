@@ -10,8 +10,9 @@
 ## Copyright
 
 FirstMod WordPress theme, Copyright 2020 voidProc.
+FirstMod is distributed under the terms of the GNU GPL.
 
-FirstMod is a child theme of First:
+FirstMod is a child theme of First :
 
 First, Copyright 2020 2014-2016 Takao Utsumi.
 First is distributed under the terms of the GNU GPL.
@@ -22,3 +23,7 @@ http://themehaus.net/themes/first/
 
 - WordPress 4.1+
 - [First](http://themehaus.net/themes/first/) 2.0.4
+
+## Changelog
+
+- 1.0.0 公開
